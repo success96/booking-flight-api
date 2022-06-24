@@ -1,0 +1,32 @@
+[
+  {
+    "title": "flight to canada",
+    "Ptime": "1pm",
+    "price": 26000,
+    "date": "26-06-2022"
+  },
+  {
+    "title": "flight to Ghana",
+    "Ptime": "2pm",
+    "price": 25000,
+    "date": "26ppp-06-2022"
+  },
+  {
+    "title": "flight to Nigeria",
+    "Ptime": "2pm",
+    "price": 25000,
+    "date": "26ppp-06-2022"
+  },
+  {
+    "title": "flight to England",
+    "Ptime": "2pm",
+    "price": 25000,
+    "date": "26ppp-06-2022"
+  },
+  {
+    "title": "flight to Togo",
+    "Ptime": "2pm",
+    "price": 25000,
+    "date": "26ppp-06-2022"
+  }
+]

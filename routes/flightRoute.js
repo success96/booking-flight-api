@@ -9,9 +9,9 @@ router.post('/add', controller.add)
 //endpoint obtains all the flight
 router.get('/allFlights', controller.allflights);
 //endpoint to get a single flight
-router.get('/findOne/:id', controller.findone);
+router.get('/findOne/:id', controller.findOne);
 //endpoint to edit a flight
 router.put('/update', controller.update);
 //endpoint to delete a flight
-router.delete('/delete', controller.delete);
+router.delete('/delete/:id', controller.delete);
 module.exports = router;
